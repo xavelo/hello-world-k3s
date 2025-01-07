@@ -5,7 +5,7 @@ metadata:
   annotations:
     commitID: "4d98ab4bf91addc13faab3aa6658d8533b05a549"
 spec:
-  replicas: 4
+  replicas: 1
   selector:
     matchLabels:
       app: hello-world-k3s
